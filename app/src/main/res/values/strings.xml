@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin1_DZ3</string>
+    <string name="title">Выбор фотографий</string>
+    <string name="title_choose">Выбранные фотографии</string>
+</resources>
